@@ -1,7 +1,7 @@
 # HashMind
 HashMind: A strategic AI bot for a 2D board game utilizing hash tables and game tree algorithms to make optimal moves. Includes custom collision resolution techniques and features like game evaluation and move prediction.
 
-#Features
+# Features
 
 1. Strategic AI: Implements advanced algorithms to determine the best possible move in a 2D board game.
     
